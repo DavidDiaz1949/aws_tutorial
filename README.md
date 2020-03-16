@@ -1,5 +1,9 @@
 # AWS Patrones Arquitecturales
 
+## Tutorial
+
+https://www.youtube.com/watch?v=SLKCaaNZxE4
+
 ![Imagenes](images/inicio.PNG)
 
 ![Imagenes](images/2.PNG)
